@@ -1,5 +1,5 @@
 #include <stdio.h>
-//計算平方值與立方值
+//計算平方值與立方值https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6873
 int main(){
     int num;
     while (scanf("%d", &num) != EOF) {
